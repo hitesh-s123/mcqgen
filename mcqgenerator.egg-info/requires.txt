@@ -1,0 +1,8 @@
+PyPDF2
+accelerate
+langchain
+python-dotenv
+streamlit
+tensorflow
+tokenizers
+transformers
