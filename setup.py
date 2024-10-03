@@ -5,6 +5,6 @@ setup(
     version='0.0.1',
     author='hitesh',
     author_email='jnvpghitesh@gmail.com',
-    install_requires=['transformers','accelerate','tensorflow','tokenizers','langchain','streamlit','python-dotenv','PyPDF2','langchain_community'],
+    install_requires=['transformers','accelerate','tensorflow','tokenizers','langchain','streamlit','python-dotenv','PyPDF2','langchain_community','pydantic'],
     packages=find_packages()
 )

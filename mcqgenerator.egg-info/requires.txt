@@ -1,6 +1,8 @@
 PyPDF2
 accelerate
 langchain
+langchain_community
+pydantic
 python-dotenv
 streamlit
 tensorflow
